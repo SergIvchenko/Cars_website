@@ -36,9 +36,9 @@ body, html {
     z-index: 1;
 }
 .bg3 {
-    background-image: url(images/honda_civic.jpg);
+    background-image: url(images/McLaren.jpg);
     top: 2000px;
-    min-height: 9000px;
+    min-height: 900px;
     z-index: 2;
 }
 .bg4 {
