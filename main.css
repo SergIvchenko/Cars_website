@@ -1,0 +1,53 @@
+body, html {
+    height: 6000px;
+}
+.name, .name2, .name3, .name4 {
+    font-family: 'Faster One', cursive;
+    text-align: center;
+    padding: auto;
+    padding-top: 90px;
+    font-size: 50px;
+    color: white;
+}
+.name {
+    font-size: 80px;
+    color: black;
+}
+.color {
+    background-color: #000a0b;
+}
+.bg, .bg2, .bg3, .bg4 {
+    position: fixed;
+    margin-top: -100px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover 100%;
+}
+.bg {
+    background-image: url(images/bmw_m1.jpg);
+    height: 900px;
+    z-index: -1;
+}
+.bg2 {
+    background-image: url(images/abimelec-arellano-ferrari-testarossa.jpg);
+    top: 1000px;
+    min-height: 1000px;
+    z-index: 1;
+}
+.bg3 {
+    background-image: url(images/honda_civic.jpg);
+    top: 2000px;
+    min-height: 1000px;
+    margin-top: -150px;
+    z-index: 2;
+}
+.bg4 {
+    background-image: url(images/McLaren.jpg);
+    top: 3000px;
+    min-height: 900px;
+    z-index: 3;
+}
+
+
+
