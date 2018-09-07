@@ -13,6 +13,10 @@ body, html {
     font-size: 80px;
     color: black;
 }
+.name3 {
+padding-top: 110px;
+color: black;
+}
 .color {
     background-color: #000a0b;
 }
@@ -38,6 +42,7 @@ body, html {
 .bg3 {
     background-image: url(images/porsche.jpg);
     top: 2000px;
+    margin-top: -150px;
     min-height: 900px;
     z-index: 2;
 }
